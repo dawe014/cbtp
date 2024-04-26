@@ -89,8 +89,8 @@ $result = $mysqli->query($sql);
                         <li><a href="backend/patient_old/user-login.php">Patient old Login</a></li>
                         <li><a href="backend/Patient/user-login.php">PATIENT Login</a></li> -->
                         <div class="reglog">
-                        <li class="menu-active"><a href="backend/Patient/user-login.php">SIGN IN</a></li>
-                        <li><a href="backend/Patient/index.php">REGISTER</a></li>
+                        <li class="menu-active"><a href="user-login.php">SIGN IN</a></li>
+                        <li><a href="patient_register.php">REGISTER</a></li>
                     </div>
                 </nav><!-- #nav-menu-container -->		    		
                 <!-- </div> -->
